@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Futuro de la Tecnología</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f0f0f0;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        hr {
+            border: 1px solid #ccc;
+        }
+        .resaltado {
+            background-color: yellow;
+            font-weight: bold;
+        }
+        blockquote {
+            font-style: italic;
+            color: #555;
+            border-left: 4px solid #ccc;
+            padding-left: 15px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>El Futuro de la Tecnología</h1>
+
+    <p>La tecnología ha transformado la manera en que vivimos, trabajamos y nos comunicamos. <span class="resaltado">Cada año, nuevas innovaciones impactan nuestras vidas.</span></p>
+    
+    <hr>
+    
+    <p>Desde la inteligencia artificial hasta la biotecnología, los avances tecnológicos prometen resolver problemas globales. Sin embargo, también presentan desafíos éticos y sociales que debemos considerar.</p>
+    
+    <hr>
+    
+    <p>En los próximos años, la convergencia de tecnologías como la realidad virtual, la computación cuántica y la robótica podría revolucionar múltiples industrias. <span class="resaltado">El impacto será profundo e irreversible.</span></p>
+    
+    <hr>
+    
+    <blockquote>
+        "La tecnología es solo una herramienta. Las personas son las que hacen que las cosas sucedan." — Steve Jobs
+    </blockquote>
+</body>
+</html>
