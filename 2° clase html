@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página HTML Completa</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <base href="https://www.ejemplo.com/" target="_blank">
+</head>
+<body>
+    <h1>Bienvenido a mi página</h1>
+    <p>Explora nuestros artículos:</p>
+    <ul>
+        <li><a href="articulo1.html">Artículo 1</a></li>
+        <li><a href="articulo2.html">Artículo 2</a></li>
+        <li><a href="articulo3.html">Artículo 3</a></li>
+        <li><a href="https://www.wikipedia.org">Visitar Wikipedia</a></li>
+    </ul>
+
+    <noscript>
+        <p>JavaScript está deshabilitado en tu navegador. Actívalo para una mejor experiencia.</p>
+    </noscript>
+</body>
+</html>
